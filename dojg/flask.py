@@ -1,6 +1,6 @@
-print("Hello, World!")
+print("Well, Great!")
 
-x = "Python"
+x = "syed"
 y = "is"
 z = "awesome"
 print(x, y, z)
