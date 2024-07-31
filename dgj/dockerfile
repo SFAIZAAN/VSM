@@ -1,0 +1,4 @@
+FROM python
+WORKDIR d:\testrepo\DGJ\pysi.pylogin
+COPY requirements.txt ./
+run  ["python", "./pysi.py"]
